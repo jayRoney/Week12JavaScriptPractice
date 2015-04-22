@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="802cdc69-7906-4b8a-85c7-e5f9f8697b73" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cool.html" afterPath="$PROJECT_DIR$/cool.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Week12Pt1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="cool.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cool.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4214876" vertical-offset="0" max-vertical-offset="825">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.37190083" vertical-offset="90" max-vertical-offset="825">
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -244,8 +243,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cool.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4214876" vertical-offset="0" max-vertical-offset="825">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.37190083" vertical-offset="90" max-vertical-offset="825">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
           <folding />
         </state>
       </provider>
